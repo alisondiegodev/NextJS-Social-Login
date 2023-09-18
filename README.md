@@ -36,6 +36,14 @@ export {handler as GET, handler as POST}
 }
 
 ```
+create your .env file 
+
+```
+GOOGLE_ID = "PUT YOUR GOOGLE ID"
+GOOGLE_SECRET ="PUT YOUR GOOGLE SECRET HERE"
+
+```
+
 Create a provider for your login component:
 
 /app/components/Provider.tsx
