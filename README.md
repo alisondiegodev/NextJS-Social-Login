@@ -1,7 +1,7 @@
 This page helps you to create a simple login in NextJS using next-auth lib
 
 
-install next-auth:
+install next-auth: <br>
 Docs: the example on home page does not work with new NEXTJS 13.4 App folder
 https://next-auth.js.org/
 
